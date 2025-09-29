@@ -13,19 +13,19 @@ export default function Footer() {
             </p>
             <div className="flex space-x-4">
               <a
-                href="#"
+                href="https://github.com/hsuhninhtet"
                 className="p-2 text-gray-400 hover:text-white transition-colors duration-200"
               >
                 <Github className="w-5 h-5" />
               </a>
               <a
-                href="#"
+                href="http://linkedin.com/in/su-hnin-htet-73150a230"
                 className="p-2 text-gray-400 hover:text-white transition-colors duration-200"
               >
                 <Linkedin className="w-5 h-5" />
               </a>
               <a
-                href="#contact"
+                href="mailto:hsuhninhtet12@gmail.com"
                 className="p-2 text-gray-400 hover:text-white transition-colors duration-200"
               >
                 <Mail className="w-5 h-5" />
