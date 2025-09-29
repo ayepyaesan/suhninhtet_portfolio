@@ -29,14 +29,14 @@ export default function Hero() {
           <p className="text-lg md:text-xl text-white/90 mb-12 max-w-2xl mx-auto leading-relaxed">
             Turning ideas into impactful digital experiences
           </p>
-          
+          <a href="#portfolio"
           <button
-            onClick={scrollToProjects} href="#protfolio"
+            onClick={scrollToProjects} 
             className="group bg-gradient-to-r from-pink-500 to-purple-600 hover:from-pink-600 hover:to-purple-700 text-white px-8 py-4 rounded-full font-semibold text-lg transition-all duration-300 transform hover:scale-105 hover:shadow-2xl"
           >
             View My Work
             <ArrowDown className="inline-block ml-2 w-5 h-5 group-hover:translate-y-1 transition-transform duration-300" />
-          </button>
+          </button> </a>
         </div>
       </div>
 
