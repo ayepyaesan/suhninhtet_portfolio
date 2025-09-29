@@ -19,7 +19,7 @@ export default function Portfolio() {
       githubUrl: 'https://github.com/hsuhninhtet/amzphotostudio'
     },
     {
-      title: 'Laptop Landing Page',
+      title: 'Landing Page Collection',
       description: 'Multiple responsive landing pages designed for various business needs with conversion-focused layout',
       image: 'https://images.pexels.com/photos/1118873/pexels-photo-1118873.jpeg?auto=compress&cs=tinysrgb&w=800',
       tags: ['HTML', 'CSS', 'Javascript' , 'Bootstrap'],
