@@ -91,7 +91,7 @@ export default function About() {
 
             <div className="pt-6">
               <a
-                href="#contact"
+                href="https://drive.google.com/file/d/19HNaz484mTePAgxBsffCtDb1kr1sInko/view?usp=sharing"
                 className="inline-flex items-center space-x-2 bg-blue-600 text-white px-6 py-3 rounded-lg hover:bg-blue-700 transition-colors duration-200 font-medium"
               >
                 <span>Let's Work Together</span>
