@@ -31,8 +31,8 @@ export default function Portfolio() {
       description: 'Responsive portfolio website showcasing creative work and professional experience.',
       image: 'https://images.pexels.com/photos/196644/pexels-photo-196644.jpeg?auto=compress&cs=tinysrgb&w=800',
       tags: ['React', 'TypeScript', 'Tailwind CSS'],
-      liveUrl: '#',
-      githubUrl: '#'
+      liveUrl: 'https://su-hnin-htet-profess-np6v.bolt.host/',
+      githubUrl: 'https://github.com/hsuhninhtet/shh_portfolio'
     }
   ];
 
