@@ -38,19 +38,19 @@ export default function Hero() {
 
             <div className="flex justify-center space-x-4">
               <a
-                href="#"
+                href="https://github.com/hsuhninhtet"
                 className="p-3 text-gray-600 hover:text-blue-600 transition-colors duration-200"
               >
                 <Github className="w-6 h-6" />
               </a>
               <a
-                href="#"
+                href="http://linkedin.com/in/su-hnin-htet-73150a230"
                 className="p-3 text-gray-600 hover:text-blue-600 transition-colors duration-200"
               >
                 <Linkedin className="w-6 h-6" />
               </a>
               <a
-                href="#contact"
+                href="mailto:hsuhninhtet12@gmail.com"
                 className="p-3 text-gray-600 hover:text-blue-600 transition-colors duration-200"
               >
                 <Mail className="w-6 h-6" />
